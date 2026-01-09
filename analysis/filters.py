@@ -18,9 +18,9 @@ def apply_filters(df):
         selected = st.sidebar.multiselect("amenities_count", rooms, rooms)
         df = df[df.amenities_count.isin(selected)]
 
-    if "Quarter_or_City" in df.columns:
-        neigh = df.Quarter_or_City.dropna().unique()
-        selected = st.sidebar.multiselect("Quarter_or_City", neigh, neigh)
-        df = df[df.Quarter_or_City.isin(selected)]
+    if "Quarter_Or_City" in df.columns:
+        neigh = df.Quarter_Or_City.dropna().unique()
+        selected = st.sidebar.multiselect("Quarter_Or_City", neigh, neigh)
+        df = df[df.Quarter_Or_City.isin(selected)]
 
     return df
