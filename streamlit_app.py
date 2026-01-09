@@ -18,7 +18,7 @@ st.title("🏠 Airbnb Data Analysis Dashboard")
 # -----------------------
 @st.cache_data
 def load_data():
-    df = pd.read_csv("airbnb_tp.csv")
+    df = pd.read_csv("./raw_data/airbnb_tp.csv")
     return df
 
 df = load_data()
