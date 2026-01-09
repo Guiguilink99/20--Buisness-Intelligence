@@ -14,13 +14,13 @@ def apply_filters(df):
         df = df[df.price.between(*price)]
 
     if "amenities_count" in df.columns:
-        rooms = df.room_type.dropna().unique()
+        rooms = df.amenities_count.dropna().unique()
         selected = st.sidebar.multiselect("amenities_count", rooms, rooms)
-        df = df[df.room_type.isin(selected)]
+        df = df[df.amenities_count.isin(selected)]
 
     if "Quarter_or_City" in df.columns:
-        neigh = df.neighbourhood.dropna().unique()
+        neigh = df.Quarter_or_City.dropna().unique()
         selected = st.sidebar.multiselect("Quarter_or_City", neigh, neigh)
-        df = df[df.neighbourhood.isin(selected)]
+        df = df[df.Quarter_or_City.isin(selected)]
 
     return df
