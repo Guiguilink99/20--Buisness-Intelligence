@@ -1,0 +1,37 @@
+Augmenter le taux d’occupation des logements accueillant 2 à 4 personnes de 70 % à 80 % au cours du prochain trimestre.
+
+Spécifique : se concentre sur les logements ayant une capacité de 2 à 4 personnes.
+
+Mesurable : le taux d’occupation est calculé en divisant les nuitées réservées par les nuitées disponibles.
+
+Atteignable : les données montrent une forte demande pour les petits logements ; une augmentation de 10 points est réaliste.
+
+Pertinent : un taux d’occupation plus élevé augmente les revenus.
+
+####
+
+Limitée dans le temps : à atteindre d’ici la fin du trimestre.
+
+Augmenter le prix médian par personne de 5 % tout en maintenant une note moyenne de 4,7 ou plus dans les avis sur une période de six mois.
+
+Spécifique et mesurable : le prix médian par personne et les notes des avis sont calculés à partir du jeu de données.
+
+Atteignable : l’histogramme montre un prix médian par personne d’environ 48 €, donc une augmentation de 5 % (≈ 50,40 €) est modeste ; maintenir de bonnes notes est crucial pour ne pas sacrifier la qualité.
+
+Pertinent : influence directement les revenus et la satisfaction des clients.
+
+Limitée dans le temps : horizon de six mois.
+
+####
+
+Réduire la proportion de logements offrant moins de 20 équipements à moins de 25 % d’ici la fin de l’année.
+
+Spécifique : cible le nombre d’équipements.
+
+Mesurable : le nombre d’équipements est connu.
+
+Atteignable : beaucoup de logements disposent actuellement de 5 à 12 équipements ; investir dans des équipements supplémentaires est faisable.
+
+Pertinent : des équipements supplémentaires peuvent justifier une hausse des prix et attirer davantage de réservations.
+
+Limitée dans le temps : d’ici la fin de l’année.
